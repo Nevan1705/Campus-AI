@@ -7,6 +7,8 @@ The platform integrates:
 - **Vite + React + TS frontend** featuring custom glassmorphism panels, swipeable flashcards, LeetCode-style quizzes, radar charts, and Spotify Wrapped slideshow reports.
 - **Supabase PostgreSQL Schema** containing triggers, seed records, and optimized indexes.
 - **n8n Automation Engine blueprints** syncing events to Google Calendar and dispatching alerts to WhatsApp.
+- TRY THE APP: campus-ai-pi-amber.vercel.app
+Github Repo link: https://github.com/Nevan1705/Campus-AI.git
 
 ---
 
@@ -189,3 +191,5 @@ Triggers when a task deadline passes without completion.
   - **Start Time**: `Current Time + 4 hours` (blocks out 1 hour)
 - **Node 4: Twilio (Send WhatsApp SMS)**
   - **Message**: *"Oh no! You missed the deadline for '{title}'. ⚠️ We blocked a 1-hour recovery block in your calendar. Check your dashboard for the AI Recovery plan!"*
+
+
