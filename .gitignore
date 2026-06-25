@@ -1,0 +1,27 @@
+# Gitignore for CampusFlow Workspace
+
+# Python virtual environments & build artifacts
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/.pytest_cache/
+
+# Node dependencies & production builds
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
+frontend/out/
+
+# Environment configurations and secrets
+.env
+*.env
+backend/.env
+frontend/.env
+frontend/.env.local
+.secret*
+credentials.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
