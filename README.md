@@ -9,6 +9,7 @@ The platform integrates:
 - **n8n Automation Engine blueprints** syncing events to Google Calendar and dispatching alerts to WhatsApp.
 - TRY THE APP: campus-ai-pi-amber.vercel.app
 - Github Repo link: https://github.com/Nevan1705/Campus-AI.git
+- Backend on render : https://campus-ai-7nwk.onrender.com
   
 
 ---
